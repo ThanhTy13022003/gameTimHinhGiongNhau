@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\bin\Debug\net6.0-windows\GameTimHinhGiongNhau.exe
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\bin\Debug\net6.0-windows\GameTimHinhGiongNhau.deps.json
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\bin\Debug\net6.0-windows\GameTimHinhGiongNhau.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\bin\Debug\net6.0-windows\GameTimHinhGiongNhau.dll
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\bin\Debug\net6.0-windows\GameTimHinhGiongNhau.pdb
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.Form1.resources
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.dll
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\refint\GameTimHinhGiongNhau.dll
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.pdb
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\GameTimHinhGiongNhau.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GameTimHinhGiongNhau\GameTimHinhGiongNhau\obj\Debug\net6.0-windows\ref\GameTimHinhGiongNhau.dll
